@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [UserProfileTest]">
+  <test name="UserProfileBasicTest(failed)">
+    <classes>
+      <class name="com.userprofile.scholastic.test.TestAssert">
+        <methods>
+          <include name="runTestAssert"/>
+        </methods>
+      </class> <!-- com.userprofile.scholastic.test.TestAssert -->
+    </classes>
+  </test> <!-- UserProfileBasicTest(failed) -->
+</suite> <!-- Failed suite [UserProfileTest] -->

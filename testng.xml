@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="UserProfileTest" >
+  <test name="UserProfileBasicTest">
+    <classes>
+         <class name = "com.userprofile.scholastic.test.CommunityLoginTest"/>
+         <class name = "com.userprofile.scholastic.test.InfinityRingRegistrationtest"/>
+         <class name = "com.userprofile.scholastic.test.InfinityRingLoginTest"/>
+         <class name = "com.userprofile.scholastic.test.BookwizardLoginTest"/>
+         <class name = "com.userprofile.scholastic.test.BookwizardRegistrationTest"/>
+          <class name = "com.userprofile.scholastic.test.Read1000PageTest"/>
+         
+         
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
